@@ -1,0 +1,53 @@
+	body{
+      		font-family: 'Times New Roman', serif;
+          background-image: url(https://cdn.dribbble.com/userupload/22708611/file/original-dc8e80b5d7112712f747a3dfe43d8c24.gif);
+      		background-size: cover;
+          background-repeat: no-repeat;
+          }
+        #train{
+          height: 200px;
+          width: 400px;
+        }
+        #map{
+          height: 600px;
+          width: 600px;
+        }
+        #station, #map{
+          font-size: 35px;
+          text-align: center;
+        }
+        #station-label{
+          background-color: dodgerblue;
+          color: white;
+        }
+        label, #leavingFrom, #goingTo{
+          width: 320px;
+        }
+        #leavingFrom, #goingTo, #comment{
+          background-color: #8ff2f7;
+        }
+        #card{
+          width: 600px;
+          height: 600px;
+        }
+        #trainsched{
+          width: 500px;
+          height: 600px;
+        }
+        #DisplayAns{
+          font-size: 200px;
+          color: white;
+        }
+        #logo{
+          width: 60px;
+          height: 40px;
+        }
+        .fa-facebook, .fa-instagram {
+          width: 35px;
+          padding: 5px;
+          color: white;
+          background-color: black;
+        }
+        #compute{
+          width: 150px;
+          font-size: 14px;}
